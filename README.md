@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f66b6&height=120&section=header"/>
 <div> 
   <h1 align="center">
-    Oi Tudo bem? Meu nome é
-    <a href="https://www.linkedin.com/in/giulia-pereira-68b11b1aa/">Giulia 😃️</a>
+    Oi Tudo bem? Eu sou a
+    <a href="https://www.linkedin.com/in/giulia-pereira-68b11b1aa/">Giulia✨</a>
   </h1>
   
   <p align="center">
