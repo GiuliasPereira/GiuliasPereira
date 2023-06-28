@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou a
-    <a href="https://github.com/">Giulia Pereira 😃️</a>
+    <a href="https://www.linkedin.com/in/giulia-pereira-68b11b1aa/">Giulia Pereira 😃️</a>
   </h1>
   
   <p align="center">
